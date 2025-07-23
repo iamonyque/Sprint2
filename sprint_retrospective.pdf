@@ -1,0 +1,40 @@
+Projeto: Ford Enter
+Desenvolvedora: Monique Santos
+Data: 16/07/2025 - 22/07/2025
+Sprint: 2
+
+Histórias implementadas:
+
+ID 1 -  Alterar a cor da fonte para azul da página index.html
+ID 3 -  Reescrever links da pagina de contato                
+        para facilitar o entendimento 
+        da página contato.html
+
+        O que funcionou bem: 
+        Criação das branches separadas para cada história facilitou a gestão do projeto.
+       
+        A utilização de um gerenciador de versões (Git) permitiu salvar
+        alterações realizadas cada branch e salvou em nuvem (GITHUB).
+
+        As alterações exigidas pelo Product Owner foram implementadas com sucesso, 
+        conforme as histórias de usuário descritas no Product Backlog.
+        
+        Entrega pontual das tarefas propostas. 
+
+        O que não funcionou de maneira adequada:
+
+        Somente a mudança de cor não é suficiente para melhorar a experiência do usuário.
+
+        As páginas desenvolvidas estavam funcionais, mas não 
+        incluíam recursos interativos como formulários, imagens ou botões.
+
+        Sugestões de melhoria:
+
+        Incluir elementos visuais para melhorar a experiência do usuário 
+        (como imagens, botões, etc.) e tornar a página mais atraente.
+
+        Criar componentes reutilizáveis (como um cabeçalho padrão com menu) 
+        para evitar duplicação de código.
+
+        Adotar a linguagem CSS para estilização do projeto.
+        
